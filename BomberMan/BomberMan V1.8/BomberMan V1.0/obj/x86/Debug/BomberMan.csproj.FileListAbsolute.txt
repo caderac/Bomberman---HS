@@ -1,0 +1,10 @@
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\bin\Debug\BomberMan.exe
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\bin\Debug\BomberMan.pdb
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\BomberMan.csproj.GenerateResource.Cache
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\BomberMan.exe
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\BomberMan.pdb
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\dtast\Desktop\BomberMan V1.7\BomberMan V1.0\obj\x86\Debug\BomberMan.csproj.ResolveComReference.cache
